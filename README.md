@@ -2,7 +2,7 @@
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
 
-# ETC Eos Companion Module – Fork with Macro Name Feature
+# ETC Eos Companion Module
 
 ## Macro Name Variable Polling
 
